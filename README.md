@@ -1,5 +1,5 @@
 ![MasterHead](https://media4.giphy.com/headers/ruidovacio/SOdAsSufaFNw.gif)
-<h1 align="center">Hi 👋, I'm Paula </h1>
+<h1 align="center">Hi, I'm Paula 👋 </h1>
 <h3 align="center">A passionate problem solver and creative</h3>
 
 - 🔭 I’m currently working on **a School Databade Project and a Minesweeper Game**
