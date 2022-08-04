@@ -1,4 +1,4 @@
-![MasterHead](https://miro.medium.com/max/1400/1*beEP_5lN03hjXa-7qu6bBw.gif)
+![MasterHead](https://media4.giphy.com/headers/ruidovacio/SOdAsSufaFNw.gif)
 <h1 align="center">Hi 👋, I'm Paula Aidoo</h1>
 <h3 align="center">A passionate problem solver and creative</h3> img align="right" alt="Coding" width="400" src="https://medium.com/jogandoosdados/mais-do-que-executar-um-código-fazendo-uma-análise-de-correlação-com-python-638a2971949a">
 
