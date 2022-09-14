@@ -2,7 +2,6 @@
 <h1 align="center">Hi, Paula here 👋 </h1>
 <h3 align="left">A passionate problem solver and creative</h3>
 
-🔭 I’m currently working on **a Minesweeper Game**
 
 
 
