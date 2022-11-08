@@ -2,7 +2,7 @@
 
 <h1 align="center">Hello 👩‍💻 ! My name is Paula 👋</h1>
 
-<h3 ><img  src="https://media4.giphy.com/media/eNYPgt0DJBeTr3i6TG/giphy.gif?cid=ecf05e47yu7crm8y8xgqxu72e6llev4dwowqwkeqjda0qa7e&rid=giphy.gif&ct=g" width="50" height='30'>Aspiring Software Engineer<img  src="https://media4.giphy.com/media/eNYPgt0DJBeTr3i6TG/giphy.gif?cid=ecf05e47yu7crm8y8xgqxu72e6llev4dwowqwkeqjda0qa7e&rid=giphy.gif&ct=g" width="50" height='30'></h3>
+<h3 ><img  src="https://media3.giphy.com/media/xff3pr0gZA5V2jG8US/giphy.gif?cid=ecf05e4768ldddw6hctp21b8bayl2wji4pj3xrdgwfnzbe3g&rid=giphy.gif&ct=g" width="50" height='30'>Aspiring Software Engineer<img  src="https://media3.giphy.com/media/xff3pr0gZA5V2jG8US/giphy.gif?cid=ecf05e4768ldddw6hctp21b8bayl2wji4pj3xrdgwfnzbe3g&rid=giphy.gif&ct=g" width="50" height='30'></h3>
   
 <img align='right' src="https://media.giphy.com/media/iIGT8Y1rOYhBpdHh1C/giphy.gif" width="230">
   
