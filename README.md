@@ -18,7 +18,7 @@
 [![Linkedin: Paula Aidoo](https://img.shields.io/badge/-Paula_Aidoo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paulaaidoo/)](https://www.linkedin.com/in/paulaaidoo/)
 
 
-
+****
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
