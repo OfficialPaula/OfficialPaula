@@ -3,7 +3,7 @@
 <h1 align="center">Hello 👩‍💻 ! My name is Paula 👋</h1>
 
 
-<h3 ><img  src="https://media2.giphy.com/media/fvHOa31B79mlKWC2re/giphy.gif?cid=ecf05e47cwfca7dqspp9ijoxupay506ydip2vc31ujl2lisj&rid=giphy.gif&ct=s" width="50" height='30'>Problem Solver and Creative<img  src="https://media2.giphy.com/media/fvHOa31B79mlKWC2re/giphy.gif?cid=ecf05e47cwfca7dqspp9ijoxupay506ydip2vc31ujl2lisj&rid=giphy.gif&ct=s" width="50" height='30'></h3>
+<h3 ><img> Problem Solver and Creative<img  src="https://media2.giphy.com/media/fvHOa31B79mlKWC2re/giphy.gif?cid=ecf05e47cwfca7dqspp9ijoxupay506ydip2vc31ujl2lisj&rid=giphy.gif&ct=s" width="50" height='30'></h3>
   
 <img align='right' src="https://media3.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" width="230">
   
