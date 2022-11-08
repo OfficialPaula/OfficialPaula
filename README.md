@@ -2,12 +2,10 @@
 
 <h1 align="center">Hello 👩‍💻 ! My name is Paula 👋</h1>
 
-<h3 ><img  src="https://media3.giphy.com/media/WUfV5SohrG79ZK3535/giphy.gif?cid=ecf05e471cwp8v1c6qh4pnv3ebdmcyuyec9rgfgq8ngdp2yo&rid=giphy.gif&ct=s" width="50" height='30'>Aspiring Software Engineer<img  src="https://media3.giphy.com/media/WUfV5SohrG79ZK3535/giphy.gif?cid=ecf05e471cwp8v1c6qh4pnv3ebdmcyuyec9rgfgq8ngdp2yo&rid=giphy.gif&ct=s" width="50" height='30'></h3>
+<h3 ><img  src="https://media3.giphy.com/media/WUfV5SohrG79ZK3535/giphy.gif?cid=ecf05e471cwp8v1c6qh4pnv3ebdmcyuyec9rgfgq8ngdp2yo&rid=giphy.gif&ct=s" width="50" height='30'>Problem solver and creative<img  src="https://media3.giphy.com/media/WUfV5SohrG79ZK3535/giphy.gif?cid=ecf05e471cwp8v1c6qh4pnv3ebdmcyuyec9rgfgq8ngdp2yo&rid=giphy.gif&ct=s" width="50" height='30'></h3>
   
 <img align='right' src="https://media3.giphy.com/media/WUfV5SohrG79ZK3535/giphy.gif?cid=ecf05e471cwp8v1c6qh4pnv3ebdmcyuyec9rgfgq8ngdp2yo&rid=giphy.gif&ct=s" width="230">
   
-<p> I love solving problems! </p>
-
 <p> Determined and an avid learner, I’m constantly acquiring the tools needed to solve problems creativity and strategically. </p>
  
 ### Some tools I use:
