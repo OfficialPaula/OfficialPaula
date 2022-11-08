@@ -1,6 +1,6 @@
 ### Welcome!
 
-<h1 align="center">Hello, Paula here 👋</h1>
+<h1 align="center">Hello 👩‍💻 ! My name is Paula 👋</h1>
 
 <h3 ><img  src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="50" height='30'>Aspiring Software Engineer<img  src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="50" height='30'></h3>
   
