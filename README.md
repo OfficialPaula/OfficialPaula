@@ -6,7 +6,7 @@
   
 <img align='right' src="https://media.giphy.com/media/iIGT8Y1rOYhBpdHh1C/giphy.gif" width="230">
   
-<p> I love to solving problems! </p>
+<p> I love solving problems! </p>
 
 <p> Determined and an avid learner, I’m constantly acquiring the tools needed to solve problems creativity and strategically. </p>
  
