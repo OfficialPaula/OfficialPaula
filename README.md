@@ -4,7 +4,7 @@
 
 <h3 ><img  src="https://media3.giphy.com/media/WUfV5SohrG79ZK3535/giphy.gif?cid=ecf05e471cwp8v1c6qh4pnv3ebdmcyuyec9rgfgq8ngdp2yo&rid=giphy.gif&ct=s" width="50" height='30'>Aspiring Software Engineer<img  src="https://media3.giphy.com/media/WUfV5SohrG79ZK3535/giphy.gif?cid=ecf05e471cwp8v1c6qh4pnv3ebdmcyuyec9rgfgq8ngdp2yo&rid=giphy.gif&ct=s" width="50" height='30'></h3>
   
-<img align='right' src="https://media.giphy.com/media/iIGT8Y1rOYhBpdHh1C/giphy.gif" width="230">
+<img align='right' src="https://media3.giphy.com/media/WUfV5SohrG79ZK3535/giphy.gif?cid=ecf05e471cwp8v1c6qh4pnv3ebdmcyuyec9rgfgq8ngdp2yo&rid=giphy.gif&ct=s" width="230">
   
 <p> I love solving problems! </p>
 
