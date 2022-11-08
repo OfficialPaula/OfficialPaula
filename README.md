@@ -15,10 +15,9 @@
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
 <a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
 
-[![Linkedin: Paula Aidoo](https://img.shields.io/badge/-Joshua_Reyes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/j-reyes-314000/)](https://www.linkedin.com/in/j-reyes-314000/)
+[![Linkedin: Paula Aidoo](https://img.shields.io/badge/-Paula_Aidoo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paulaaidoo/)](https://www.linkedin.com/in/paulaaidoo/)
 
-<!--
-**j-reyes314/j-reyes314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
