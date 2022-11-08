@@ -7,7 +7,7 @@
 <img align='right' src="https://media.giphy.com/media/iIGT8Y1rOYhBpdHh1C/giphy.gif" width="230">
   
 <p>I love to solving problems! Determined and an avid learner, I’m constantly acquiring the tools needed to solve problems creativity and strategically.
- <a href='https://joshanthonyreyes.com/'>my website</a>.</p>
+</p>
  
 ### Some tools I use:
 
