@@ -3,7 +3,7 @@
 <h1 align="center">Hello 👩‍💻 ! My name is Paula 👋</h1>
 
 
-<h3 ><img>Problem Solver and Creative<img   width="50" height='30'></h3>
+<h3 >Problem Solver and Creative </h3>
   
 <img align='right' src="https://media3.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" width="230">
   
